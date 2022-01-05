@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "Imagen": "https://sistemas3.ucol.mx/sed/fotos/1477_001CBF45B45B.jpg",
+    "Nombre": "GALLARDO ARMANDO ROMAN",
+    "Materia": "PROGRAMACION ORIENTADA A OBJETOS"
+  },
+  {
+    "id": 2,
+    "Imagen": "https://sistemas3.ucol.mx/sed/fotos/4665_CBFX21X21J1L.jpg",
+    "Nombre": "BRICIO CHAPULA CARLOS ADRIAN",
+    "Materia": "ELECTRONICA DIGITAL"
+  },
+  {
+    "id": 3,
+    "Imagen": "https://sistemas3.ucol.mx/sed/fotos/6382_X2145BAFRRTCDF.jpg",
+    "Nombre": "POZAS ZEPEDA DARIO",
+    "Materia": "CALCULO DIFERENCIAL E INTEGRAL"
+  },
+  {
+    "id": 4,
+    "Imagen": "https://sistemas3.ucol.mx/sed/fotos/3509_45BAFJ1LABFA6X.jpg",
+    "Nombre": "BUENROSTRO MARISCAL RAYMUNDO",
+    "Materia": "ENRUTAMIENTO Y CONMUTACION"
+  },
+  {
+    "id": 5,
+    "Imagen": "https://sistemas3.ucol.mx/sed/fotos/4346_CBF45BATFX21.jpg",
+    "Nombre": "RAMIREZ GONZALEZ HUMBERTO",
+    "Materia": "ESTRUCTURA DE DATOS"
+  },
+  {
+    "id": 6,
+    "Imagen": "https://sistemas3.ucol.mx/sed/fotos/8247_RRTCDFCBF45B.jpg",
+    "Nombre": "ROLON MACIAS EFRAIN",
+    "Materia": "EMPRENDIMIENTO"
+  },
+  {
+    "id": 7,
+    "Imagen": "https://sistemas3.ucol.mx/sed/fotos/3950_45BAFA6XJ1LABF.jpg",
+    "Nombre": "RAMIREZ SANCHEZ CLAUDIA YOLANDA",
+    "Materia": "INGLES III"
+  }
+]
